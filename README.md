@@ -1,4 +1,4 @@
-# Terminal based Encrypted Messenger
+# Encrypted Terminal Based Messaging System
 
 - Multiclient chat application that has 1 server component and atleast 4 clients.
   
